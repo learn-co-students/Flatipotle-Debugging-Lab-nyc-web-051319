@@ -7,7 +7,7 @@ Flatiron School has decided to dabble in the food industry and just opened up a 
 * Clone this repository and `cd` into it
 * Run `npm install` or `yarn install` to install dependencies
 * Run `npm start` or `yarn start` to start the app locally
-
+ 
 ## Deliverables
 
 1. A user should be able to see an order form with options for protein, fillings, toppings, and sides.
